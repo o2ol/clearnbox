@@ -1,0 +1,9 @@
+Package: com.o2ol.cleanbox
+Name: CleanBox
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: TrollStore system/user app cache cleaner (safe categories).
+Maintainer: o2ol
+Author: o2ol
+Section: Utilities
+Depends: firmware (>= 15.0)

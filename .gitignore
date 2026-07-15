@@ -1,0 +1,34 @@
+# Theos / build
+.theos/
+packages/
+*.deb
+obj/
+_
+
+# Local home / publish outputs
+.home/
+dist/
+*.ipa
+*.tipa
+*.zip
+
+# macOS / IDE
+.DS_Store
+*.swp
+*~
+xcuserdata/
+*.xcworkspace
+*.xcodeproj
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets / local keys
+.env
+.env.*
+*.pem
+.deploy_clearnbox
+.deploy_clearnbox.pub
